@@ -1,4 +1,5 @@
-# importamos el modulo random
+# importamos el modulo random#inserto prueba 
+
 import random
 
 dado1=random.randint(1,6)
